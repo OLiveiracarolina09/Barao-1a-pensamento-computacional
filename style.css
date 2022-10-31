@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 body {
+    font-family: 'Dancing Script', cursive;
     background:rgb(235, 90, 169);
     text-align: center;
 }
@@ -6,11 +8,11 @@ body {
     width:100%;
 }
 
-.benefícios
+.benefícios {
     text-align: left;
-      background-color: rgb(226, 26, 209); {
+      background-color: rgb(226, 26, 209); 
 
-      }
+}
 ul {
    display: inline-block;
    vertical-align: top;
@@ -21,8 +23,8 @@ li {
      font-size: 26px;
 }
 
-.foto.beneficio.jpg {
-   width: 40%;
+.foto-beneficio {
+   width: 30%;
 
 }
 
